@@ -1,6 +1,6 @@
 # psd-hackathon
 
-![psd hackathon](psd-hackathon.svg)
+![psd hackathon](img/psd-hackathon.svg)
 
 procyberian system distribution hackathon activities
 
